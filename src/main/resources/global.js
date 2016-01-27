@@ -8,6 +8,6 @@
 	mail: {
 		host: "smtp.qq.com",
 		user: "3130359332@qq.com",
-		password: "udng08760108"
+		password: "123456"
 	},
 }
